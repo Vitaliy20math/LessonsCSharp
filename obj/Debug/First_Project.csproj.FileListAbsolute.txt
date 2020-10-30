@@ -1,0 +1,7 @@
+C:\Users\huawei\Desktop\CSharp\First_Project\bin\Debug\First_Project.exe.config
+C:\Users\huawei\Desktop\CSharp\First_Project\bin\Debug\First_Project.exe
+C:\Users\huawei\Desktop\CSharp\First_Project\bin\Debug\First_Project.pdb
+C:\Users\huawei\Desktop\CSharp\First_Project\obj\Debug\First_Project.csprojAssemblyReference.cache
+C:\Users\huawei\Desktop\CSharp\First_Project\obj\Debug\First_Project.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\CSharp\First_Project\obj\Debug\First_Project.exe
+C:\Users\huawei\Desktop\CSharp\First_Project\obj\Debug\First_Project.pdb
